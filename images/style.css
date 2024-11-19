@@ -1,0 +1,12 @@
+.box{
+   align-items: center;
+   display: flex;
+   gap: 40px;
+}
+
+.box1{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}

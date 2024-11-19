@@ -9,6 +9,18 @@
     gap: 109px;
 }
 
+.box{
+    align-items: center;
+    display: flex;
+    gap: 40px;
+}
+
+.box2{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
 
 .text{
     max-width: 427px;
@@ -44,4 +56,29 @@ border-radius: 55px;
 background: rgb(69, 143, 246);
 text-decoration: none;
 padding: 20px 40px;
+}
+.box3{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.box4{
+    text-decoration: none;
+    color: black;
+    opacity: 0,5px;
+}
+.box5{
+    text-decoration: none;
+    color: black;
+    opacity: 0,5px;
+}
+.box6{
+    text-decoration: none;
+    color: black;
+    opacity: 0,5px;
+}
+.box7{
+    text-decoration: none;
+    color: black;
+    opacity: 0,5px;
 }
